@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "alfy": "^0.8.0",
-    "run-applescript": "^3.2.0"
+    "child_process": "^1.0.2"
   }
 }
