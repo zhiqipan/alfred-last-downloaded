@@ -12,9 +12,9 @@
 				<key>destinationuid</key>
 				<string>FA514A3A-D5A3-4331-B452-3EEE7868648E</string>
 				<key>modifiers</key>
-				<integer>0</integer>
+				<integer>1048576</integer>
 				<key>modifiersubtext</key>
-				<string></string>
+				<string>Reveal file in Finder</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -22,9 +22,9 @@
 				<key>destinationuid</key>
 				<string>301DAEFB-0343-4830-B98B-C13FD9866715</string>
 				<key>modifiers</key>
-				<integer>524288</integer>
+				<integer>0</integer>
 				<key>modifiersubtext</key>
-				<string>Open the file</string>
+				<string></string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
